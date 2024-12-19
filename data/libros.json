@@ -1,0 +1,58 @@
+[
+    {
+        "consecutivo": 1,
+        "titulo": "El Señor de los Anillos",
+        "autor": "J.R.R. Tolkien",
+        "anio_publicacion": 1954,
+        "disponible": true,
+        "numero_de_volumen": 1
+    },
+    {
+        "consecutivo": 2,
+        "titulo": "Madame Bovary",
+        "autor": "Gustave Flaubert",
+        "anio_publicacion": 1857,
+        "disponible": true,
+        "numero_de_volumen": 1
+    },
+    {
+        "consecutivo": 3,
+        "titulo": "Crimen y castigo",
+        "autor": "Fiodor Dostoyevsky",
+        "anio_publicacion": 1866,
+        "disponible": true,
+        "numero_de_volumen": 1
+    },
+    {
+        "consecutivo": 4,
+        "titulo": "La divina comedia",
+        "autor": "Dante Alighieri",
+        "anio_publicacion": 1320,
+        "disponible": true,
+        "numero_de_volumen": 1
+    },
+    {
+        "consecutivo": 5,
+        "titulo": "Matar a un ruiseñor",
+        "autor": "Harper Lee",
+        "anio_publicacion": 1960,
+        "disponible": true,
+        "numero_de_volumen": 1
+    },
+    {
+        "consecutivo": 6,
+        "titulo": "1984",
+        "autor": "George Orwell",
+        "anio_publicacion": 1949,
+        "disponible": true,
+        "numero_de_volumen": 1
+    },
+    {
+        "consecutivo": 7,
+        "titulo": "prueba",
+        "autor": "prueba",
+        "anio_publicacion": 5454,
+        "disponible": true,
+        "numero_de_volumen": 54
+    }
+]

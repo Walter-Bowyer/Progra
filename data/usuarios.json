@@ -1,0 +1,32 @@
+[
+    {
+        "nombre": "Mario Hernández",
+        "id_usuario": 1,
+        "libros_prestados": []
+    },
+    {
+        "nombre": "José López",
+        "id_usuario": 2,
+        "libros_prestados": []
+    },
+    {
+        "nombre": "Julía Obando",
+        "id_usuario": 3,
+        "libros_prestados": []
+    },
+    {
+        "nombre": "Ana Salazar",
+        "id_usuario": 4,
+        "libros_prestados": []
+    },
+    {
+        "nombre": "Luis Torres",
+        "id_usuario": 5,
+        "libros_prestados": []
+    },
+    {
+        "nombre": "Gabriela Soto",
+        "id_usuario": 6,
+        "libros_prestados": []
+    }
+]
